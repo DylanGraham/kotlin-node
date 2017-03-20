@@ -1,0 +1,10 @@
+.gradle
+/build
+node_modules
+.idea
+*.seed
+*.log
+*.out
+*.pid
+npm-debug.log
+.node_history
